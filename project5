@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     int exitTime, entryTime, period;
+    float charge;
     cout<< "Please enter your entry time: ";
     cin>>entryTime;
     cout<<"Please enter your exit time: ";
